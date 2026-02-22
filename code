@@ -1,0 +1,5 @@
+real-estate-platform/
+│
+├── client/        (React frontend)
+├── server/        (Node + Express backend)
+└── README.md
